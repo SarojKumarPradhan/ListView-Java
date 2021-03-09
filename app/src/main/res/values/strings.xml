@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">List View Demo</string>
+    // It is my first approach for make a listview**************************************
+    <string-array name="list">
+        <item>Apple</item>
+        <item>bull</item>
+        <item>cat</item>
+        <item>dog</item>
+        <item>Apple</item>
+        <item>bull</item>
+        <item>cat</item>
+        <item>dog</item>
+        <item>Apple</item>
+        <item>bull</item>
+        <item>cat</item>
+        <item>dog</item>
+        <item>Apple</item>
+        <item>bull</item>
+        <item>cat</item>
+        <item>dog</item>
+    </string-array>
+
+</resources>
